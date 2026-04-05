@@ -1,5 +1,6 @@
-// package Collection_Interface;
+package List;
 import java.util.*;
+import Queue.Queues;
 /*
 list methods
  E get(int index)

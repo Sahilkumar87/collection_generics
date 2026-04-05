@@ -1,5 +1,6 @@
+package LinkedList;
+//package LinkedList;
 import java.util.*;
-
 public class Linkedlist {
     public static void main(String[] args) {
         List<Integer> lk = new LinkedList<>();
